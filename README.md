@@ -156,8 +156,8 @@ Execute the programs and publish them.
 ```
 
 ## OUTPUT
+![map (3)](https://github.com/mythriekkaluri2005/NearMe/assets/150231422/bb3b35f2-2818-425b-a6fc-79d9a86dfcaf)
 
-![alt text](<map (2).png>)
 
 ![alt text](PARK.png)
 
